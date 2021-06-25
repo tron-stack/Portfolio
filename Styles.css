@@ -102,6 +102,15 @@ body{
     left: 175px;
     color: rgb(13, 29, 63);
 }
+#buttoncontainer{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 15px 15px 10px;
+}
+
+#button{
+    padding: 5px;
+    margin: 10px;
+}
 
 #link{
 
