@@ -1,4 +1,4 @@
-body {
+#body {
     
     background-color: rgb(151, 184, 255);
 }
@@ -131,7 +131,7 @@ font-size: larger;
   color: navajowhite;
 
 }
-footer {
+#footer {
   left: 200px;
   text-align: center;
   color: rgb(13, 29, 63);
