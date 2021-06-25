@@ -1,7 +1,7 @@
 #body {
     display: grid;
-    height: 1080px;
-    width: 1920px;
+    height: 100%;
+    width: 100%;
     background-color: rgb(151, 184, 255);
 }
 #header {
@@ -95,7 +95,7 @@
 
 #bodydiv {
     display: grid;
-    width: max-content;
+    width: 100%;
     text-align: left;
     margin: 50px 25px 50px 25px;
     padding: 50px 25px 50px 25px;
