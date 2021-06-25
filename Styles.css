@@ -114,15 +114,17 @@ body{
 
 #link{
 
-  font-size: larger;
+font-size: larger;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 200;
   flex-wrap: wrap;
   margin: 25px;
   padding: 12px;
-  color:rgb(66, 236, 248);
-  text-decoration: wavy;
-
+  color:rgb(24, 121, 128);
+  text-decoration:solid;
+  text-shadow: 2em;
+  text-decoration: overline;
+  text-decoration-color: black;
 }
 
 #link:hover{
