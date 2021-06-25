@@ -1,5 +1,7 @@
 #body {
-    
+    display: grid;
+    height: 1080px;
+    width: 1920px;
     background-color: rgb(151, 184, 255);
 }
 #header {
@@ -93,13 +95,13 @@
 
 #bodydiv {
     display: grid;
-    width: 100%;
+    width: max-content;
     text-align: left;
     margin: 50px 25px 50px 25px;
     padding: 50px 25px 50px 25px;
     background-color: rgb(134, 218, 224);
     position: relative;
-    left: 200px;
+    left: 175px;
     color: rgb(13, 29, 63);
     
 }
