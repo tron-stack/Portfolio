@@ -92,7 +92,14 @@
     left: 25%;
 }
 
+#videodiv {
+    display: flex;
+    align-self: center;
+    position: relative;
+    border-radius: 10%;
+    left: 25%;
 
+}
 #bodydiv {
     display: grid;
     width: 100%;
