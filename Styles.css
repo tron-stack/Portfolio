@@ -94,7 +94,7 @@ body{
 #bodydiv {
     display: grid;
     width: 100%;
-    text-align: center;
+    text-align: left;
     margin: 50px 25px 50px 25px;
     padding: 50px 25px 50px 25px;
     background-color: rgb(134, 218, 224);
