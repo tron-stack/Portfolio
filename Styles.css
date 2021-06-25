@@ -92,7 +92,7 @@ body{
 
 
 #bodydiv {
-    display: flex;
+    display: grid;
     text-align: center;
     margin: 50px 25px 50px 25px;
     padding: 50px 25px 50px 25px;
@@ -102,14 +102,13 @@ body{
     color: rgb(13, 29, 63);
 }
 #buttoncontainer{
+    display: grid;
     margin: 10px 10px 10px 10px;
     padding: 10px 15px 15px 10px;
+    grid-template-columns: 2;
+    grid-template-rows: 1;
 }
 
-#button{
-    padding: 5px;
-    margin: 10px;
-}
 
 #link{
 
